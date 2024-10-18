@@ -6,7 +6,7 @@ spring:
     init:
       mode: always
   datasource:
-    url: jdbc:mysql://localhost:3306/db_demo
+    url: jdbc:mysql://localhost:3306/exceptionhandlingtestdb
     username: root
     password: Abhi@2109
     driver-class-name: com.mysql.cj.jdbc.Driver
